@@ -57,19 +57,19 @@ THE PROCESS OF CREATIONS OF THIS FONT
 	The reason I did not use FontForge to create the font is, I don't know
 	whether FontForge supports importing photo files to a font.
 
-	I did not upload DNG files, because I deleted a part ZIP file wrongly -
-	the GitHub website does not allow uploading any file that its size
-	exceeds 25 MB, so I created ZIP files, move DNG files into ZIP files,
-	according Unicode blocks and Unicode codepoints of characters associated
-	to DNG files, one Unicode block per ZIP file, then I used 7-Zip to split
-	ZIP files, but I deleted a part ZIP file its name seems ended with zip,
-	and clear the Recycle Bin, then I found there is not a file its name
-	with the same prefix to other part ZIP files and ended with .zip.01, so
-	I know I deleted a part of a splitted ZIP file. I did not backup ZIP or
-	DNG/JPG files before I delete the part 01, so I think leave rest parts
-	of ZIP files are meaningless, because I have lost a part of a ZIP file,
-	this means I have lost a ZIP file, and I have lost a block of characters
-	of DNG files, so I deleted all ZIP files.
+	I did not upload DNG/JPG files, because I deleted a part ZIP file
+	wrongly - the GitHub website does not allow uploading any file that its
+	size exceeds 25 MB, so I created ZIP files, move DNG/JPG files into ZIP
+	files, according Unicode blocks and Unicode codepoints of characters
+	associated to DNG/JPG files, one Unicode block per ZIP file, then I used
+	7-Zip to split ZIP files, but I deleted a part ZIP file its name seems
+	ended with zip, and clear the Recycle Bin, then I found there is not a
+	file its name with the same prefix to other part ZIP files and ended
+	with .zip.01, so I know I deleted a part of a splitted ZIP file. I did
+	not backup ZIP or DNG/JPG files before I delete the part 01, so I think
+	leave rest parts of ZIP files are meaningless, because I have lost a
+	part of a ZIP file, this means I have lost a ZIP file, and I have lost a
+	block of characters of DNG files, so I deleted all ZIP files.
 
 PERMISSIONS OF USAGES OF THIS FONT
 
@@ -103,10 +103,9 @@ PERMISSIONS OF USAGES OF THIS FONT
 	licences, they will be afraid of licences, or they will think there are
 	restrictions or requirements for them when they are using this font.
 
-REMARKS OF PHOTO FILES AND GLYPHS OF THIS FONT
+REMARKS OF GLYPHS OF THIS FONT
 
-	The basename of each photo file is the hexadecimal form of the Unicode
-	codepoint of a character.
+	The same glyphs may be appeared in multiple characters.
 
 	21 and AC3 are the same.
 	26 and 214B are the same.
@@ -195,3 +194,9 @@ REMARKS OF PHOTO FILES AND GLYPHS OF THIS FONT
 	A7B1 is modified from 54.
 	A7FA is modified from 6D.
 	AB65 is modified from 28A.
+
+	Characters from E000 to E005 are numbers I designed for hexadecimal,
+	because I think the glyph of numbers from 0 to 9, and glyphs of latin
+	alphabets from A to F, are different. Character E006 is designed for
+	indicating hexadecimal number system, if you want to use a single symbol
+	to indicate hexadecimal number system.
