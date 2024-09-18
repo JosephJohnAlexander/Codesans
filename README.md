@@ -1,49 +1,22 @@
 REASONS OF CREATING THIS FONT
 
-	I need a monospaced/duospaced font, there are several fonts I have
-	liked, but none of them satisfy me.
+	When I was creating Nailbody, I want a monospaced/duospaced sans serif,
+ 	because I always think that serifs and sanses are basic fonts. There are
+   	several fonts I have wanted, but none of them satisfy me.
 
-	DSE Typewriter is released under SIL OpenFont License, this licence
-	forces font modifications, of a font under this licence, release under
-	this licence. And, there are no vertical lines but slashes in the glyph
-	of the number sign (ASCII hexadecimal: 23).
-
-	Inconsolata is relased under SIL OpenFont License. And there are no
-	vertical lines but slashes in the glyph of the number sign.
-
-	Selectric Bookface is not free for commercial usages, and it seems not
-	monospaced. The width of the space character (ASCII hexadecimal: 20) is
-	not same to the width of other characters.
+	Inconsolata is relased under SIL OpenFont License, this licence forces
+	font modifications, of a font under this licence. And there are no
+	vertical lines but slashes in the glyph of the number sign (ASCII
+ 	hexadecimal: 23).
 
 	Selectric Advocate is not free for commercial usages.
-
-	CentSchbook Mono BT is not free for commercial usages, and there are no
-	vertical lines but slashes in the glyph of the number sign.
 
 	DEC Terminal Modern is not free for commerical usages.
 
 	Glass TTY VT220's glyphs are not clear.
-
-	I don't know whether Nouveau IBM Stretch free for commerical usages, and
-	I don't accept glyphs of numbers 6, 9 and lowercase g (ASCII
-	hexadecimal: 07).
-
-	437 IBM BIOS-2y is released under SIL OpenFont License, and I don't
-	accept glyphs of numbers 6, 9, and lowercase g.
-
-	437 IBM VGA 8x16 is released under CC-BY SA. Reasons I refuse this
-	font, are same to reasons I reject 437 IBM BIOS-2y.
-
-	The ratio of the width and the height of glyphs of CMU Typewriter,are
-	not 1:2.
-
-	X Typewriter is released under SIL OpenFont License.
-
+ 
 	IBM Plex Mono is released under SIL OpenFont License, and I don't accept
 	glyphs of numbers 6 and 9.
-
-	Courier New is not a font that free for commerical usages, and I don't
-	accept glyphs of the number sign, 6, 9 and lowercase g.
 
 THE PROCESS OF CREATIONS OF THIS FONT
 
