@@ -143,11 +143,13 @@ REMARKS OF GLYPHS OF THIS FONT
 	28D is modified from 77.
 	28E is modified from 79.
 	29E is modified from 6B.
+ 	2BA and 5F4 are the same.
 	2BB, 312 and 2018 are the same.
 	2BC, 313 and 2019 are the same.
 	2EE and 201D are the same.
 	370 and 2C75 are the same.
 	37B is modified from 37D.
+        37D and A73F are the same.
 	387 and A78F are the same.
 	3A9 and 2126 are the same.
 	3B2 and A7B5 are th same.
