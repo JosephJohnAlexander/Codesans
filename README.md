@@ -152,7 +152,7 @@ REMARKS OF GLYPHS OF THIS FONT
 	310 is modified from A8F2.
 	370 and 2C75 are the same.
 	37B is modified from 37D.
-        37D and A73F are the same.
+ 	37D and A73F are the same.
 	387 and A78F are the same.
 	3A9 and 2126 are the same.
 	3B2 and A7B5 are th same.
