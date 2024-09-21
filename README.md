@@ -119,7 +119,7 @@ REMARKS OF GLYPHS OF THIS FONT
 	78 and 2179 are the same.
 	A2 and 23C are the same.
 	AF is modified from F7.
-	B4, 2B9, 374 and 384 are the same - they are modified from 385.
+ 	B4, 2B9, 374, 384 and 1FFD are the same - they are modified from 385.
 	B5 and 3BC are the same.
 	B7, 2219 and 387 are the same.
 	BF is modified from 3F.
