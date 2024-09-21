@@ -121,7 +121,7 @@ REMARKS OF GLYPHS OF THIS FONT
 	AF is modified from F7.
  	B4, 2B9, 374, 384 and 1FFD are the same - they are modified from 385.
 	B5 and 3BC are the same.
-	B7, 2219 and 387 are the same.
+	B7, 2219, 387 and 1091F are the same.
 	BF is modified from 3F.
 	D7 and 205B are modified from 203B.
 	131 is modified from 69.
