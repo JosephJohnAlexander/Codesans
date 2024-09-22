@@ -96,17 +96,18 @@ REMARKS OF GLYPHS OF THIS FONT
 	49, 399 and 2160 are the same.
 	4A and 37F are the same.
 	4B, 39A abd 212A are the same.
-	4D, 39C and 216F are the same.
+	4D, 39C, 16D6 and 216F are the same.
 	4C and 216C are the same.
 	4E and 39D are the same.
-	4F and 39F are the same - they are modified from 398.
+	4F, 39F and 1090F are the same - they are modified from 398.
 	56 and 2164 are the same.
 	59 and 3A5 are the same.
 	58, 3A7 and 2169 are the same.
 	5A and 396 are the same.
 	50 and 3A1 are the same.
 	54 and 3A4 are the same.
-	58 and 3A7 are the same.
+ 	57 and 10914 are the same.
+	58, 3A7 and 10915 are the same.
 	5F is modified from B1.
 	63 and 217D are the same.
 	64 and 217E are the same.
