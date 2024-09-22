@@ -191,10 +191,10 @@ REMARKS OF GLYPHS OF THIS FONT
   	9B106977C54E87E8E52 (Runic)
   	https://cn.bing.com/images/search?view=detailV2&id=12B6DD6BEA0A03F420BC1
    	6C0F70F5D39F9F84237 (Ogham)
-   	https://cn.bing.com/images/search?view=detailV2&id=F66CC228627D2BAD96040
-    	493B3BC000B830F3EAF (Ogham)
-    	https://cn.bing.com/images/search?view=detailV2&id=E9E66FDB355BC75C62903
-     	C62C39BE11B47D17172 (Phoenician)
+    	https://cn.bing.com/images/search?view=detailV2&id=F66CC228627D2BAD96040
+	493B3BC000B830F3EAF (Ogham)
+ 	https://cn.bing.com/images/search?view=detailV2&id=E9E66FDB355BC75C62903
+  	C62C39BE11B47D17172 (Phoenician)
 
 	Glyphs also influenced by Segoe UI Historic (Ogham and Runic), Arial,
  	MS Gothic, Helvetica, Consolas, and Times New Roman.
