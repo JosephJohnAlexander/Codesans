@@ -182,5 +182,5 @@ REMARKS OF GLYPHS OF THIS FONT
 	Characters from E000 to E005 are numbers I designed for hexadecimal,
 	because I think the glyph of numbers from 0 to 9, and glyphs of latin
 	alphabets from A to F, are different. Character E006 is designed for
-	indicating hexadecimal number system, if you want to use a single symbol
-	to indicate hexadecimal number system.
+	indicating hexadecimal number system, I defined it as the single
+ 	character symbol that indicates the hexadecimal number system.
