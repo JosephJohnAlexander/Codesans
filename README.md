@@ -125,8 +125,11 @@ REMARKS OF GLYPHS OF THIS FONT
 	B5 and 3BC are the same.
 	B7, 2219, 387 and 1091F are the same.
 	BF is modified from 3F.
+  	CF and 3AA are the same.
 	D7 and 205B are modified from 203B.
+	F3 and 3CC are the same.
 	131 is modified from 69.
+ 	178 and 3AB are the same.
 	18D is modified from 3B4.
 	1A9 and 3A3 are the same.
 	1B1 and 2127 are the same - they are modified from 3A9.
@@ -135,6 +138,7 @@ REMARKS OF GLYPHS OF THIS FONT
 	237 is modified from 6A.
 	250 is modified from 61.
 	254 is modified from 63.
+	263 and 3B3 are the same.
 	265 is modified from 68.
 	269 and 3B9 are the same.
 	26F is modified from 6D.
@@ -151,6 +155,7 @@ REMARKS OF GLYPHS OF THIS FONT
 	2BB, 312 and 2018 are the same.
 	2BC, 313 and 2019 are the same.
 	2EE and 201D are the same.
+	3B4 and 1E9F are the same.
 	311 is modified from 2D8.
 	310 is modified from A8F2.
 	370 and 2C75 are the same.
@@ -159,6 +164,7 @@ REMARKS OF GLYPHS OF THIS FONT
 	387 and A78F are the same.
 	3A9 and 2126 are the same.
 	3B2 and A7B5 are th same.
+	3B4 and 1E9F are the same.
 	3C6 and 594 are the same.
 	3C9 and A7B7 are the same.
 	59C and 59D are the same.
