@@ -118,6 +118,7 @@ REMARKS OF GLYPHS OF THIS FONT
 	73 and A731 are the same.
 	76 and 2174 are the same.
 	78 and 2179 are the same.
+ 	7E and 1FC0 are the same.
 	A2 and 23C are the same.
 	AF is modified from F7.
  	B4, 2B9, 374, 384 and 1FFD are the same - they are modified from 385.
@@ -140,12 +141,13 @@ REMARKS OF GLYPHS OF THIS FONT
 	278 and 3D5 are the same.
 	279 is modified from 72.
 	283 and AB4D are the same.
-	2B7 is modified from 74.
 	28B and 3C5 are the same.
+ 	2BC, 1FBD and 1FBF are the same.
 	28D is modified from 77.
 	28E is modified from 79.
 	29E is modified from 6B.
  	2BA and 5F4 are the same.
+	2B7 is modified from 74.
 	2BB, 312 and 2018 are the same.
 	2BC, 313 and 2019 are the same.
 	2EE and 201D are the same.
@@ -191,7 +193,7 @@ REMARKS OF GLYPHS OF THIS FONT
   	9B106977C54E87E8E52 (Runic)
   	https://cn.bing.com/images/search?view=detailV2&id=12B6DD6BEA0A03F420BC1
    	6C0F70F5D39F9F84237 (Ogham)
-    	https://cn.bing.com/images/search?view=detailV2&id=F66CC228627D2BAD96040
+	https://cn.bing.com/images/search?view=detailV2&id=F66CC228627D2BAD96040
 	493B3BC000B830F3EAF (Ogham)
  	https://cn.bing.com/images/search?view=detailV2&id=E9E66FDB355BC75C62903
   	C62C39BE11B47D17172 (Phoenician)
