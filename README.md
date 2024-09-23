@@ -3,11 +3,12 @@ REASONS OF CREATING THIS FONT
 	When I was creating Nailbody, I want a monospaced/duospaced sans serif,
  	because I always think that serifs and sanses are basic fonts. There are
    	several fonts I have wanted, but none of them satisfy me.
-
-	Inconsolata is relased under SIL OpenFont License, this licence forces
-	font modifications, of a font under this licence. And there are no
-	vertical lines but slashes in the glyph of the number sign (ASCII
- 	hexadecimal: 23).
+	
+	Inconsolata is relased under SIL OpenFont License. The requirement for
+ 	fonts to remain under this license does not apply to any document
+	created using the fonts or their derivatives. And there are no vertical
+ 	lines but slashes in the glyph of the number sign (ASCII hexadecimal:
+  	23).
 
 	Selectric Advocate is not free for commercial usages.
 
