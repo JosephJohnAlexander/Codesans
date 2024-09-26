@@ -18,7 +18,7 @@ You may do things to this font, including, but not limited to edit, display and 
 
 You may do one or multiple kinds of things listed above. You may do each kind of things in one or multiple times. If you want to do a kind of things in mulitple times, you may do times of the kind continuously or discontinuously.
 
-If you are going to release the copy of this font, or going to release modifications of this font, you may release under any of licences.<BACKUP>
+If you are going to release the copy of this font, or going to release modifications of this font, you may release under any of licences.</BACKUPED>
 
 Originally I decided to release this font under a permissive licence, but later I gave up. The reason I don't release this font under licences, is I think licences contains rules, when users are seeing licences, they will be afraid of licences, or they will think there are restrictions or requirements for them when they are using this font.
 
