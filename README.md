@@ -10,7 +10,7 @@ Glass TTY VT220's glyphs are not clear.
  
 IBM Plex Mono is released under SIL OpenFont License, and I don't accept glyphs of numbers 6 and 9.
 
-This font is released without licences, just like the copyright of the Pythagorean theorem, or the copyright of sheet musics of symphonies written by Ludwig Van Beethoven.
+This font is released without licences, just like the copyright of the Pythagorean theorem, or sheet musics of symphonies written by Ludwig Van Beethoven.
 
 This font is free. It can be used for commerical and noncommercial partly or entirely. You don't need to ask me for allow use this font for anywhere, anything - this font is entirely free in anywhere and for any things. Once you obtained copies of this font, you are the master of copies of this font you got. You may do anything to this font.
 
