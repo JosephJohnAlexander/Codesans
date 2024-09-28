@@ -4,7 +4,7 @@ Inconsolata is relased under SIL OpenFont License. The requirement for fonts to 
 
 Selectric Advocate is not free for commercial usages.
 
-DEC Terminal Modern is not free for commerical usages.
+DEC Terminal Modern is free for personal usages, I don't know whether it is free for usages of other hands (for example, commercial).
 
 Glass TTY VT220's glyphs are not clear.
  
@@ -14,9 +14,7 @@ IBM Plex Mono is released under SIL OpenFont License, and I don't accept glyphs 
 
 This font is free. It can be used for commerical and noncommercial partly or entirely. You don't need to ask me for allow use this font for anywhere, anything - this font is entirely free in anywhere and for any things. Once you obtained copies of this font, you are the master of copies of this font you got. You may do anything to this font.
 
-You may do things to this font, including, but not limited to edit, display and print, and respread (free or sell; for copies or modifications)
-
-You may do one or multiple kinds of things listed above. You may do each kind of things in one or multiple times. If you want to do a kind of things in mulitple times, you may do times of the kind continuously or discontinuously.
+You may do things to this font, including, but not limited to edit, display and print, and respread (free or sell; for copies or modifications). You may do one or multiple kinds of things listed above. You may do each kind of things in one or multiple times. If you want to do a kind of things in mulitple times, you may do times of the kind continuously or discontinuously.
 
 If you are going to release the copy of this font, or going to release modifications of this font, you may release under any of licences.</BACKUPED>
 
