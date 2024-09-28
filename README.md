@@ -20,7 +20,7 @@ If you are going to release the copy of this font, or going to release modificat
 
 Originally I decided to release this font under a permissive licence, but later I gave up. The reason I don't release this font under licences, is I think licences contains rules, when users are seeing licences, they will be afraid of licences, or they will think there are restrictions or requirements for them when they are using this font.
 
-Characters from E012 to E017 are numbers I designed for hexadecimal, because I think the style of glyphs of latin alphabets from A to F, are different from the style of glyphs from characters 0 to 9. I designed a character indicates the hexadecimal number system and stored it at codepoint E018.
+Characters from E012 to E017 are numbers I designed for hexadecimal, because I think the style of glyphs of latin alphabets from A to F, are different from the style of glyphs from characters 0 to 9. I designed a character as the symbol of the hexadecimal number system and stored it at codepoint E018.
 
 Glyphs are influenced by photos:
 https://cn.bing.com/images/search?view=detailV2&id=AE907D1D855815643970C9B106977C54E87E8E52 (Runic)
