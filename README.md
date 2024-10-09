@@ -10,7 +10,9 @@ Glass TTY VT220's glyphs seem not clear.
  
 IBM Plex Mono is released under SIL OpenFont License, and I don't accept glyphs of numbers 6 and 9.
 
-Characters from E012 to E017 are numbers I designed for hexadecimal, because I think the style of glyphs of latin alphabets from A to F, are different from the style of glyphs from characters 0 to 9. I designed a character as the symbol of the hexadecimal number system and stored it at codepoint E018.
+Characters from E000 to E006 are numbers I designed for hexadecimal, because I think the style of glyphs of latin alphabets from A to F, are different from the style of glyphs from characters 0 to 9. I designed a character as the symbol of the hexadecimal number system and stored it at codepoint E018.
+
+I created some handscript-style glyphs, and made them oblique, that is just the Italic. I stored the original version (did not oblique) of these handscript-style glyphs in Codesans Upright Script. The name 'Upright' is derived from 'upright italics' of the third sentence of the first paragraph of the context of 'How much slant?' of http://designwithfontforge.com/en-US/Italic.html.  
 
 Glyphs are influenced by photos:
 https://cn.bing.com/images/search?view=detailV2&id=AE907D1D855815643970C9B106977C54E87E8E52 (Runic)
