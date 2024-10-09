@@ -21,3 +21,5 @@ https://cn.bing.com/images/search?view=detailV2&id=F66CC228627D2BAD96040493B3BC0
 https://cn.bing.com/images/search?view=detailV2&id=E9E66FDB355BC75C62903C62C39BE11B47D17172 (Phoenician)
 
 Glyphs also influenced by Segoe UI Historic (Ogham and Runic), Arial, MS Gothic, Helvetica, Consolas, and Times New Roman.
+
+![1](https://github.com/user-attachments/assets/402024c1-909b-48ae-8a53-e891599a81c8)
