@@ -20,4 +20,6 @@ https://cn.bing.com/images/search?view=detailV2&id=12B6DD6BEA0A03F420BC16C0F70F5
 https://cn.bing.com/images/search?view=detailV2&id=F66CC228627D2BAD96040493B3BC000B830F3EAF (Ogham)
 https://cn.bing.com/images/search?view=detailV2&id=E9E66FDB355BC75C62903C62C39BE11B47D17172 (Phoenician)
 
-Glyphs also influenced by Segoe UI Historic (Ogham and Runic), Arial, MS Gothic, Helvetica, Consolas, and Times New Roman.
+Glyphs also influenced by Segoe UI Historic (Ogham and Runic), Arial, MS Gothic, Helvetica, Consolas, IBM Plex Mono, and Times New Roman.
+
+![1](https://github.com/user-attachments/assets/4a06ad71-9f30-4d17-a86d-d546d83e1a78)
