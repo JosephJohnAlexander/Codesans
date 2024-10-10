@@ -1,8 +1,8 @@
 When I was creating Nailbody, I want to have a monospaced/duospaced sans serif typeface, because I always think that serifs and sanses are basic fonts. There are several fonts I have wanted, but none of them satisfy me.
 
-[Inconsolata](https://github.com/googlefonts/Inconsolata) is relased under SIL OpenFont License. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. And there are no vertical lines but slashes in the glyph of the number sign.
+[Inconsolata](https://github.com/googlefonts/Inconsolata) is relased under [SIL OpenFont License](https://openfontlicense.org/open-font-license-official-text/). The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. And there are no vertical lines but slashes in the glyph of the number sign.
 
-Selectric Advocate is not free for commercial usages.
+[Selectric Advocate](https://www.creativefabrica.com/product/selectric-advocate/) is not free for commercial usages.
 
 [DEC Terminal Modern](https://www.dafont.com/dec-terminal-modern.font) is free for personal usages, I don't know whether it is free in usages of other hands (for example, commercial usages).
 
