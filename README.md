@@ -12,6 +12,8 @@ When I was creating Nailbody, I want to have a monospaced/duospaced sans serif t
 
 Characters from E000 to E005 are numbers I designed for hexadecimal, because I think the style of glyphs of latin alphabets from A to F, are different from the style of glyphs from characters 0 to 9. I designed a character as the symbol of the hexadecimal number system and stored it at codepoint E006.
 
+I also created a proportional edition of this font, last named [Handmark](https://github.com/JosephJohnAlexander/Handmark). In the process I naming that proportional edition, I had chosen to treat it as a derivative of a font I had created at August AD 2024, named Humanist Sans, at that time I also created a monospaced edition of Humanist Sans. Then I decided to treat Codesans as a derivative of the monospaced edition of Humanist Sans. I rearranged version numbers of Codesans, made Codesans' version numbers satisfying the process of evolutions of versions of the monospaced font, so Codesans Version 1 is the second version of the monospaced font, and the third version of the monospaced font is Codesans Version 3, versions of Codesans are changed to 3 and started from 3.
+
 I created some handscript-style glyphs, and made them oblique, that is just the Italic. I stored the original version (did not oblique) of these handscript-style glyphs in Codesans Upright Script. The name 'Upright' is derived from 'upright italics' of the third sentence of the first paragraph of the context of 'How much slant?' of http://designwithfontforge.com/en-US/Italic.html.
 
 Glyphs are influenced by photos:
